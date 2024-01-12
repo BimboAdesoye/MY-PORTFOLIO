@@ -117,4 +117,9 @@
   .text-container {
     text-align: justify;
   }
+
+  #profile .section__pic-container {
+    height: 250px;
+    width: 250px;
+  }
 }

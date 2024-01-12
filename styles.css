@@ -169,6 +169,11 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  /* background-color: black; */
+}
+
+#profile .section__pic-container img {
+  width: 100%;
 }
 
 .section__text {
